@@ -6,5 +6,13 @@
 ### What is a useState() in react.js?
 <p>useState() is react hook for react functional component. it is a function which return a array and initial value as a argument of useState(). In the first element of the array is the data or state, second element is the updated function. state we can use anywhere, but if we want to update state inside component we have to use updated element</p>
 
+### when a component is rerendering?
+<p>There are three situations component is rerendering</p>
+<u>
+<li>When a props changed</li>
+<li>When a state is change</li>
+<li>when parent component is rerendering</li>
+</u>
+
 
 
