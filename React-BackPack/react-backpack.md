@@ -17,5 +17,19 @@
 ### What is the component tree in a react?
 <p>Component tree one kind of parent child relation through which we can pass data parent to child component, but data flow always top to bottom, not bottom to top</p>
 
+### What is the JSX in React?
+<p>JSX is the function, behind the seen we are invoking javascript function, but we are using JSX as a HTML because of comfortable reading, writing code</p>
+
+### What is the child props?
+<p>When inside custom component we pass anything, which called child props.</p>
+
+### what is the conditional rendering in react js, where we use conditional rendering?
+<p>Conditional Rendering is the powerful features through which we can render dynamically data with this. </p>
+<p>When we want to select class name, when we want to select attributes, for styling, we can use in term of value provide, which component will be render to make decision</p>
+
+### What is the useEffect() hook?
+<p></p>
+
+
 
 
