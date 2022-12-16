@@ -1,16 +1,16 @@
 # Top 15 JavaScript Question
 
 ### What is JavaScript?
-<p>JavaScript is an interpreted language and also capabilities object oriented features. This is the programming language for web</p>
+<p>JJavaScript is an interpreted language and also has capabilities object-oriented features. This is the programming language for web</p>
 
 ### How Does Browser Runs JavaScript?
 
-<p>JavaScript is an interpreted language, which means before sending code to the browser we do not need to compile javascript source code. it takes to code and runs it. Every Browser uses a javascript engine, but they have their own javascript engine. such as the modern javascript engine name V8. Through which google chromo browser run javascript</p>
+<p>JavaScript is an interpreted language, which means before sending code to the browser we do not need to compile javascript source code. it takes to code and runs it. Every Browser uses a JavaScript engine, but they have their own JavaScript engine. such as the modern JavaScript engine name V8. Through which google chromo browser run JavaScript</p>
 
 ### How Does Browser Works?
 
 <p>Browser is a one kind of desktop software that we are use with install</p>
-<p>Firstly, browser collected whole html file like .html and css style lke .css, then convert HTML to DOM tree through HTML parser as well as CSS to style tree through CSS parser</p>
+<p>Firstly, browser collected whole html file like .html and CSS style like .CSS, then convert HTML to DOM tree through HTML parser as well as CSS to style tree through CSS parser</p>
 <p>DOM tree, style structure are attached together to make render tree which internally make layout, if we change or update anything, it is automatically re-rendering</p>
 <p>After completing render tree process , we can see the actual UI, it's called paint to display!</p>
 
@@ -73,3 +73,6 @@
 
 ### What are the ways to define a variable in JavaScript?
 <p>There are 3 ways such as var, const, let</p>
+
+### 16.	When would you use a conditional statement?
+<p>When we want your code to choose between multiple options.</p>
