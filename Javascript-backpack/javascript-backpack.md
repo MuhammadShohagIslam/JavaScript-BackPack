@@ -76,3 +76,9 @@
 
 ### 16.	When would you use a conditional statement?
 <p>When we want your code to choose between multiple options.</p>
+
+### What is the short-circuit in javascript?
+<p>In Javascript we can get find a term short-circuit which is or (||) and (&&). through this we are doing short-circuit evaluation</p>
+
+### What is nullish or coalescing or ?? operators in Javascript?
+<p>When right side part is null or undefined, then left side value is executed</p>
