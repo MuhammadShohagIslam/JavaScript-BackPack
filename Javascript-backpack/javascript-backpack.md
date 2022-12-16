@@ -1,5 +1,8 @@
 # Top 15 JavaScript Question
 
+### What is JavaScript?
+<p>JavaScript is an interpreted language and also capabilities object oriented features. This is the programming language for web</p>
+
 ### How Does Browser Runs JavaScript?
 
 <p>JavaScript is an interpreted language, which means before sending code to the browser we do not need to compile javascript source code. it takes to code and runs it. Every Browser uses a javascript engine, but they have their own javascript engine. such as the modern javascript engine name V8. Through which google chromo browser run javascript</p>
@@ -42,3 +45,31 @@
 ### What is the difference between DOM Vs BOM?
 <p>DOM represents the whole HTML document, BOM represents a window in a browser</p>
 <p>if we want to update any UI of the page, we can use DOM document, BOM is not standardized which changed based on different browser </p>
+
+
+### Can you discuss some type of Browser API?
+<ul>
+    <li>window(open(), close(), resizeTo(), moveTo())</li>
+   <li>screen(width,height,availWidth,availHeight,colorDepth,pixelDepth)</li>
+   <li>window.location.(href,hostname, pathname, protocol, assign) </li>
+   <li>history.(back(),forward()) </li>
+</ul>
+
+### How is a forEach statement different from a for statement?
+<p>A for statement is generic, but forEach statement we can use only with an array</p>
+
+### What are the data types supported by JavaScript?
+<p>String, Number, Boolean, Object, Null, Undefined, Symbol</p>
+
+### What is the Callback?
+<p>A Callback is function passed as an argument to the another function</p>
+
+### What is the difference between Attributes and Property?
+<p>Attributes: provides more details on an element like id, type, value</p>
+<p>Properties: is the value assigned to the property like type type="text"</p>
+
+### In how many ways a JavaScript code can be involved in an HTML file?
+<p>There are 3 ways such as inline, internal, external</p>
+
+### What are the ways to define a variable in JavaScript?
+<p>There are 3 ways such as var, const, let</p>
