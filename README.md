@@ -25,4 +25,5 @@
     <li>Since js execute code synchronously and every code execution function to go call stack, but if any asynchronous code has js codes, it goes firstly Call Stack to WEB API in the browser, after finishing all of the work, this operation to go event queue, then through event loop, the operation to go call stack, then finally this operation executed.</li>
 </ul>
 
+### What is an event loop in JavaScript?
 
