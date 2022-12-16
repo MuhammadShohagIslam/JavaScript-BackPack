@@ -15,7 +15,7 @@
 </u>
 
 ### What is the component tree in a react?
-<p></p>
+<p>Component tree one kind of parent child relation through which we can pass data parent to child component, but data flow always top to bottom, not bottom to top</p>
 
 
 
