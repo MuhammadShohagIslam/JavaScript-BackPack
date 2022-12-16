@@ -26,13 +26,19 @@
 </ul>
 
 ### What is the difference between setTimeout vs setInterval?
-<p>setTimeout and setInterval are the javascript method which are the solution to run our code asynchronously</p>
-<p>setTimeout execute once, but it can be used recursively to wait for a call stack to indicate it should wait to execute again. setInterval will execute continuously over a specific amount of time.</p>
+<p>setTimeout and setInterval are the javascript method that is the solution to run our code asynchronously</p>
+<p>setTimeout executes once, but it can be used recursively to wait for a call stack to indicate it should wait to execute again. setInterval will execute continuously over a specific amount of time.</p>
 
 ### What are Javascript Cookies?
-<p>Javascript cookies are the client database, where we can store data or any information as a string</p>
+<p>Javascript cookies are the client database, where we can store data or any user information as a string. for example, if you log in to any website, after finishing your work, then close the browser. after some days if we can not clear cookies, if we want to enter the website, we do not again login because cookies have your information</p>
 
 ### What is the difference between local storage vs session storage?
-<p>Both of store data in our computer browser</p>
-<p>The key difference is that local storage data is not deleted if you can not clear the local storage data and will not delete data after close the browser</p>
+<p>Both store data in our computer browser</p>
+<p>The key difference is that local storage data is not deleted if you can not clear the local storage data and will not delete data after closing the browser</p>
 <p>Session Storage data are removed when we close the browser</p>
+
+
+
+### What is the difference between DOM Vs BOM?
+<p>DOM represents the whole HTML document, BOM represents a window in a browser</p>
+<p>if we want to update any UI of the page, we can use DOM document, BOM is not standardized which changed based on different browser </p>
