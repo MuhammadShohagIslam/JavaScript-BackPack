@@ -14,5 +14,8 @@
 <li>when parent component is rerendering</li>
 </u>
 
+### What is the component tree in a react?
+<p></p>
+
 
 
