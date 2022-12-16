@@ -82,3 +82,7 @@
 
 ### What is nullish or coalescing or ?? operators in Javascript?
 <p>When right side part is null or undefined, then left side value is executed</p>
+
+### What is the difference between expression vs statement?
+<p>Expression: end of day, expression return anything, we can stored any place,and also it is producing data</p>
+<p>Statement: end of day, it is not return anything, we can stored any place. for example function call is expression but function declare is the statement</p>
