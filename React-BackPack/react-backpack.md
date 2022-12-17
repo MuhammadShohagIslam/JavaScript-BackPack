@@ -28,7 +28,7 @@
 <p>When we want to select class name, when we want to select attributes, for styling, we can use in term of value provide, which component will be render to make decision</p>
 
 ### What is the useEffect() hook?
-<p></p>
+<p>useEffect() is a react hook which allows to perform side effects of our react component.Another meaning that which also tell react anything need to do after render we can use react useEffect() hook </p>
 
 
 
