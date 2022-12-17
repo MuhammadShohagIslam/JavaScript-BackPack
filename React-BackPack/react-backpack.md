@@ -30,6 +30,9 @@
 ### What is the useEffect() hook?
 <p>useEffect() is a react hook which allows to perform side effects of our react component.Another meaning that which also tell react anything need to do after render we can use react useEffect() hook </p>
 
+### What is a functional component in React.Js?
+<p>When a function return a jax, it's called functional component as react.js</p>
+
 
 
 
