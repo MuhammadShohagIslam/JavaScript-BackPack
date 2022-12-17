@@ -41,7 +41,13 @@
 <p>We must have to use function as an HTML tag</p>
 
 ### Why React Move Class based Component to Functional Component?
-<p></p>
+<p>First issue is that performance issue. Class component very costly when it is Instantiated.It mean we need to much space in the CPU.but functional component is good because it needs low CPU </p>
+<p>Secondly, react everything do with virtual DOM, Virtual DOM means it is the clone of real DOM. Class based component work with mutable way, when we change any data, it change data but address does not change. it is issue for performance of react. If we use functional component we can work immutable way, if we change any data it also change address as well as data.</p>
+
+### What is the benefits of Functional Component?
+<p>It's developer friendly</p>
+<p>State management is very easy than class component</p>
+
 
 
 
