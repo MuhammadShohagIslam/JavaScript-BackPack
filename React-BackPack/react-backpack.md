@@ -33,6 +33,16 @@
 ### What is a functional component in React.Js?
 <p>When a function return a jax, it's called functional component as react.js</p>
 
+### What is the important things to make functional component?
+<p>Name have to be a capital</p>
+<p>This function should be return HTML like JSX</p>
+<p>A functional component must have one argument, we can not use one more argument. this argument must be a object</p>
+<p>We can not call or invoke of this function, because invoking, or calling is not our responsibility, react is the responsible for this call or invoke.</p>
+<p>We must have to use function as an HTML tag</p>
+
+### Why React Move Class based Component to Functional Component?
+<p></p>
+
 
 
 
