@@ -5,7 +5,7 @@
 
 ### How Does Browser Runs JavaScript?
 
-<p>JavaScript is an interpreted language, which means before sending code to the browser we do not need to compile javascript source code. it takes to code and runs it. Every Browser uses a JavaScript engine, but they have their own JavaScript engine. such as the modern JavaScript engine name V8. Through which google chromo browser run JavaScript</p>
+<p>JavaScript is an interpreted language, which means before sending code to the browser we do not need to compile javascript source code. it takes to code and runs it. Every Browser uses a JavaScript engine, but they have their own JavaScript engine. such as the modern JavaScript engine name V8 that has memory heap and call-stack. Through which google chromo browser run JavaScript</p>
 
 ### How Does Browser Works?
 
@@ -86,3 +86,6 @@
 ### What is the difference between expression vs statement?
 <p>Expression: end of day, expression return anything, we can stored any place,and also it is producing data</p>
 <p>Statement: end of day, it is not return anything, we can stored any place. for example function call is expression but function declare is the statement</p>
+
+### Why JavaScript is Single-Threaded?
+<p>JavaScript is a single-threaded because only one statement is executed at a time.</p>
