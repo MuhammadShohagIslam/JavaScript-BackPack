@@ -24,3 +24,10 @@
 <p>Express.js: express js is minimal and perfect node js framework which has robust set of features through which we can create back end application with node.js.</p>
 <p>Moongose: mongoose is a object data modeling  (ODM)  library for node.js and mongodb which help to create schema based model and connecting database with node.js.</p>
 
+### What does event-driven programming mean? 
+<p>Event drive ln programming is a computer paradigm where approach uses event to trigger various functionality. One of the example, callback function,  a callbackfunction is called when a event is triggered.</p>
+
+### What is an Event Loop in Node.js?
+<p>Event loop is the most important environment features in node.js through which handle all of the ansychrounc callback and it is the fundamental of non blocking input/output in node.js<p> 
+
+
