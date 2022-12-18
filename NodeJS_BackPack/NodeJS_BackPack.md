@@ -17,4 +17,10 @@
 ### What is NPM?
 <p>Node package manager which is responsible for managing whole application package file and module in node.js. it has some command line that help to install file update or delete and control versioing.</p>
 
+### What are the modules in Node.js?
+<p>Module is like a package where one or more javascript file organized which can be used whole application just we need require  Function with the parenthesis if we is not import file system. Some module name are fs, path,  http and so on.</p>
+
+### What are some of the most commonly used libraries in Node.js?
+<p>Express.js: express js is minimal and perfect node js framework which has robust set of features through which we can create back end application with node.js.</p>
+<p>Moongose: mongoose is a object data modeling  (ODM)  library for node.js and mongodb which help to create schema based model and connecting database with node.js.</p>
 
