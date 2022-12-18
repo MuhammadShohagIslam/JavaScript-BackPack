@@ -11,5 +11,10 @@
 <p>Relational Database is not best suit for Node.js</p>
 <p>If we want to make application where heavy CPU-intensive operations or task, Node.js is not the best option </p>
 
-### What does event-driven programming mean?
-<p></p>
+### How would you define the term I/O?
+<p>I/O is the reading / writing file or operation or a communication that data transfer one media to another media. Media can be a physical device,  network.</p>
+
+### What is NPM?
+<p>Node package manager which is responsible for managing whole application package file and module in node.js. it has some command line that help to install file update or delete and control versioing.</p>
+
+
