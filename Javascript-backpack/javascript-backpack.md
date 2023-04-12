@@ -81,7 +81,7 @@
 <p>In Javascript we can get find a term short-circuit which is or (||) and (&&). through this we are doing short-circuit evaluation</p>
 
 ### What is nullish or coalescing or ?? operators in Javascript?
-<p>When right side part is null or undefined, then left side value is executed</p>
+<p>When right side part is null or undefined, then left side value is executed, The nullish coalescing ( ?? ) operator is a logical operator that returns its right-hand side operand when its left-hand side operand is null or undefined , and otherwise returns its left-hand side operand(Mozilla)</p>
 
 ### What is the difference between expression vs statement?
 <p>Expression: end of day, expression return anything, we can stored any place,and also it is producing data</p>
