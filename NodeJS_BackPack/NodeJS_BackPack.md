@@ -56,3 +56,5 @@
 
 ### What is the package.json file?
 <p>It is the most essential file among the node.js file because it holds all of the information of our project, version controlling, metadata of our application, and store all of the dev and dependency</p> 
+### What is the Front End Developer vs Back End Developer?
+<p>Front End Developer: focuses on the visual aspects of a website, which one user see. Back End Developer: Which one user does not see, work with database, logic of the user.</p>
