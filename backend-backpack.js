@@ -18,3 +18,18 @@
     => Graphql organize term of schema and type system, rest api organized terms of Endpoint
     => Query so fast, is the take time.
 */
+/*
+  *** What is data structure and algorithms ***
+   => Data structre is a way organizing and storing data on the computer which helps us to access
+    and used efficiently.
+   => Algorithms is a some set of steps which helps us solve some particular problem.
+*/
+
+/*
+  *** What is design pattern ***
+  => Desigsn patterns are a fundemental parts of software development, it helps us to solve common repeating problems in software design
+  
+  *** Advantage of Design Patterns***
+      => design pattern helps write higher quality code, which easier to maintain, readable, extended.
+      => which increase prodcutivity, better perfomance. facilates teamwork.
+*/
