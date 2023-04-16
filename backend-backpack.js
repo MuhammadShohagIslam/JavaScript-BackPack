@@ -45,3 +45,13 @@
   => Docker is a open source platform, which helps us to deploy, development, running application with container.
   => which gives some tools which help easy to create, deploy, running,  containerized applications.
 */
+/*
+  *** What is node js ***
+   => Node js is a open-source cross platform, javascrupt runtime environment which help developer to create
+   server side application. Another way we can say, it is design evert-driven and non-blocking, which help
+   to habdle multiple request without blocking request.
+   
+  *** What is express js ***
+  => express js is popluar open source web application framwaork for node js, which helps developer to create server side application
+  and api more easy way, which more powerful and robust.
+*/
