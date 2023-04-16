@@ -40,3 +40,8 @@
     which helps us to code more reasuable, maintainable and more moduler.
    => it has four pilur like, inheritance, abstarction, polymarphisam, encapsulation.
 */
+/*
+ *** What is docker ***
+  => Docker is a open source platform, which helps us to deploy, development, running application with container.
+  => which gives some tools which help easy to create, deploy, running,  containerized applications.
+*/
