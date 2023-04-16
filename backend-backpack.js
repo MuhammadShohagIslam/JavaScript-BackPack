@@ -33,3 +33,10 @@
       => design pattern helps write higher quality code, which easier to maintain, readable, extended.
       => which increase prodcutivity, better perfomance. facilates teamwork.
 */
+
+/*
+  *** What is OOP ***
+   => Object orient programming is a one kind of programing paradaim, which realted object to interact with data.
+    which helps us to code more reasuable, maintainable and more moduler.
+   => it has four pilur like, inheritance, abstarction, polymarphisam, encapsulation.
+*/
